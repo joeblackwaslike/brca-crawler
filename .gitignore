@@ -1,0 +1,5 @@
+*-state.bin
+*.jl
+*.log
+backup/*
+__pycache__/

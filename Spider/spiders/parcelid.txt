@@ -1,0 +1,26 @@
+We assign every parcel of land in Broward County a unique number called a PARCEL I.D. NUMBER. The State of Florida is divided into geographic land measurements called "townships." These townships are based upon east and west lines every six miles (radiating outward from Tallahassee, which is the "zero township"). The townships in Broward County are South Townships 47, 48, 49, 50 and 51. There are north-south "range" lines every six miles (also beginning in Tallahassee). The ranges in Broward County are East Ranges 39, 40, 41, 42 and 43.Within each six mile square, are thirty-six "Sections", approximately one mile on a side, numbered 01 through 36.
+
+The Folio Number -- which our office used for many years -- is a shortened version of the complete Parcel ID Number. Before recent upgrades, the office's aging mainframe computer system could not handle a property number with the full number of digits. Thus, the folio system was developed (dropping the first and third digits). So, a folio number beginning "0212" would describe land in Section 12, Township 50 South, Range 42 East. If you know the first four numbers of the folio, you know within a square mile where the property is located. The first four digits of folio numbers are the second digit of the township followed by the second digit of the range, and both digits of the section.
+
+Many computerized commercial real estate systems use the complete number, so if you were in a broker's office looking for a property, you might use the number "504212" to begin finding the same property on that system.
+
+The next two numbers of the Parcel ID tell quite a bit about the property. If the numbers are "00", it means you are looking for unplatted acreage. The first subdivision to be recorded in the section is assigned number "01", and so forth. So, if you have folio number 0212 00, you know you are looking at unplatted acreage in Section 12, Township 50 South, Range 42 East. The first condominium or co-op unit to be recorded in a section is lettered "AA"; the second is "AB", and so forth. So, from the middle numbers, we know if we are looking for unplatted acreage, land in a subdivision, or a condo or co-op.
+
+The final three or four numbers tell us which parcel we are looking for. In subdivision "01", we begin numbering "001" for Lot 1 in Block 1, "002" for Lot 2 in Block 1, etc. Should Lot 1 be split, we would number the newly-created parcel "0011". So, Lot 1, Block 1 in Las Olas By the Sea Amended Plat, would be 0212 01 001.
+If we miss improvements and make a back-assessment in a future year, we will typically create a new folio number for the back-assessment, which will typically be "xxx9".
+
+townships (south): 47-51
+ranges (east): 39-43
+sections: 01-36
+subdivisions: 00-ZZ
+  00: unplatted acerage
+  01-99: land in a subdivision
+  AA-ZZ: Condo or Co-op unit
+parcel: 001-999
+split:
+  0: unsplit
+  1-8: split
+  9 back assessment
+
+ownership
+% = c/o (receiving land on behalf of property owner)

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+mv parcels.* multi-BRCA-state.bin backup/

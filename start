@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+exec scrapy crawl "multi-BRCA" -o parcels.jl
